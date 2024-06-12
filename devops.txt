@@ -1,1 +1,2 @@
 hi am learning git through git bash tool
+adding new lines to branch 
